@@ -5,7 +5,7 @@ public class Zodiac {
 
     public static void main(String[] args) {
         int zodiac,date;
-        String str="";
+        String str=" ";
         Scanner input=new Scanner(System.in);
 
         System.out.println("please enter when year did you born: ");
