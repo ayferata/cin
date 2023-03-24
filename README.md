@@ -61,7 +61,6 @@ public class Zodiac {
                 str="sheep";
                 System.out.println("your zodiac horoscope is " +str);
                 break;
-
         }
 
     }
