@@ -24,8 +24,7 @@ public class Zodiac {
             case 2:
                 str="dog";
                 System.out.println("your zodiac horoscope is" +str);
-
-                break;
+            break;
             case 3:
                 str="pig";
                 System.out.println("your zodiac horoscope is " +str);
