@@ -9,7 +9,7 @@ public class Zodiac {
         Scanner input=new Scanner(System.in);
 
         System.out.println("please enter when year did you born: ");
-        date=input.nextInt();
+        date=input.nextInt( );
 
         zodiac=date%12;
         switch (zodiac){
